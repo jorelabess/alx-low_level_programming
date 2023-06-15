@@ -2,7 +2,7 @@
 #include<unistd.h>
 
 /**
- *Main - the entry point
+ *Main - the entry point that help to display the file
  *Return: Always 1 (Success)
  */
 int main(void)
